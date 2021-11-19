@@ -1,0 +1,10 @@
+.main {
+    background-color: #eee;
+    margin: 30px 8px;
+}
+
+.heading {
+    color: var(--color-header);
+    font-size: 4rem;
+    font-weight: 600;
+}
